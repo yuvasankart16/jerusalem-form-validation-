@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(16, 121, 213);
+}
+.container{
+    width:300px;
+    
+    margin:500px auto;
+    background-color:rgb(208, 213, 218);
+    padding:20px;
+            border-radius: 20px;
+}
+h2{
+    text-align:center;
+
+}
+.form-group{
+    margin-bottom: 20px;
+
+}
+input{
+    width:100%;
+    padding:10px;
+    background-color:rgba(196, 160, 70, 0.468);
+    color: aliceblue;
+    border:seashell;
+}
+
+button{
+    width:100%;
+    padding:5%;
+    background-color:rgb(98, 174, 241);
+    color:white;
+    border:none;
+}
+.error{
+    color:red;
+    font-size:15px;
+
+}
